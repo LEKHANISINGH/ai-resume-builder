@@ -15,10 +15,11 @@ A simple and intelligent Resume Generator using OpenAI. Users can input their ba
 
 ## 🛠️ Tech Stack
 
-- Python (Flask or Streamlit)
-- OpenAI GPT-3.5 API
-- HTML & CSS (for form styling)
-- PDFKit or ReportLab (for PDF creation)
+- **👩‍💻 Language:** Python  
+- **🖼️ Frontend & UI:** Streamlit  
+- **🧠 AI Integration:** OpenAI API (or other LLM)  
+- **📤 PDF Export:** fpdf / ReportLab / pdfkit *(update based on your library)*  
+- **🔗 Version Control:** Git & GitHub
 
 ---
 
